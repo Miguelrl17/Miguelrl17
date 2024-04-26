@@ -1,5 +1,8 @@
-#Hola, My name is Miguel and I am a second year computer science student at UC Irvine 👋
-I am intreseted in various things, but my current intrestest lies in between the world of computing and buisness and where these two fields can come together to create a postivie impact,
+# Hola, My name is Miguel and I am a second year computer science student at UC Irvine 👋
+<a>I am intreseted in various things, but my current intrestest lies in between the world of computing and buisness and where these two fields can come together to create a postivie impact. As of right now, I creating various projects to show off my skills in this field, More specically I have co-created a web-crawler for one of my classes; Hopefully soon I will publish more work on personal projects of mine.
+<p align="center">
+  <a href="https://github.com/Miguelrl17"><img src="https://github-readme-stats.vercel.app/api?username=Miguelrl17&hide_border=true&show_icons=true" </a>
+</p>
 
 
 <!--
