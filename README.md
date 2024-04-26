@@ -1,4 +1,6 @@
-### Hi there 👋
+#Hola, My name is Miguel and I am a second year computer science student at UC Irvine 👋
+I am intreseted in various things, but my current intrestest lies in between the world of computing and buisness and where these two fields can come together to create a postivie impact,
+
 
 <!--
 **Miguelrl17/Miguelrl17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
