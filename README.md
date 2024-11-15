@@ -1,5 +1,9 @@
-# Hola, My name is Miguel and I am a second year computer science student at UC Irvine 👋
-<a>I am intreseted in various things, but my current intrestest lies in between the world of computing and buisness and where these two fields can come together to create a postivie impact. As of right now, I creating various projects to show off my skills in this field, More specically I have co-created a web-crawler for one of my classes; Hopefully soon I will publish more work on personal projects of mine.
+# Hola, My name is Miguel and I am a third year computer science student at UC Irvine 👋
+<a>As a passionate software engineer with a keen interest in the intersection of technology and business, I've dedicated my efforts to developing innovative solutions. My experience in machine learning and data mining has equipped me with the tools to extract valuable insights from complex datasets.
+
+I've applied these skills to various projects, including the development of an Airbnb clone, where I delved into data analysis to optimize pricing strategies and user experiences. Additionally, I've created web crawlers to gather and process large amounts of data, enabling me to conduct in-depth research and generate data-driven insights.
+
+I'm excited to continue exploring new opportunities and contributing to projects that leverage the power of data to drive positive change
 <p align="center">
   <a href="https://github.com/Miguelrl17"><img src="https://github-readme-stats.vercel.app/api?username=Miguelrl17&hide_border=true&show_icons=true" </a>
 </p>
