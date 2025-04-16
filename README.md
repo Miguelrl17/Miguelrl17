@@ -4,9 +4,6 @@
 I've applied these skills to various projects, including the development of an Airbnb clone, where I delved into data analysis to optimize pricing strategies and user experiences. Additionally, I've created web crawlers to gather and process large amounts of data, enabling me to conduct in-depth research and generate data-driven insights.
 
 I'm excited to continue exploring new opportunities and contributing to projects that leverage the power of data to drive positive change
-<p align="center">
-  <a href="https://github.com/Miguelrl17"><img src="https://github-readme-stats.vercel.app/api?username=Miguelrl17&hide_border=true&show_icons=true" </a>
-</p>
 
 
 <!--
