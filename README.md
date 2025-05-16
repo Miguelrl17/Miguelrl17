@@ -18,12 +18,13 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
   <img src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" alt="Azure">
 </p>
-<a>As a passionate software engineer with a keen interest in the intersection of technology and business, I've dedicated my efforts to developing innovative solutions. My experience in machine learning and data mining has equipped me with the tools to extract valuable insights from complex datasets.
-
-I've applied these skills to various projects, including the development of an Airbnb clone, where I delved into data analysis to optimize pricing strategies and user experiences. Additionally, I've created web crawlers to gather and process large amounts of data, enabling me to conduct in-depth research and generate data-driven insights.
-
-I'm excited to continue exploring new opportunities and contributing to projects that leverage the power of data to drive positive change
-
+<p>
+  
+I specialize in leveraging data-driven insights through machine learning and data mining. My experience spans the development of innovative solutions, including an Airbnb clone optimized with data analysis and web crawlers for in-depth research. Notably, I spearheaded the creation of an AI-powered SaaS application connecting private practice doctors nationwide to aggregate demand for medical devices, featuring an algorithm for demand analysis and a user-friendly mobile interface.
+</p>
+<p>
+My technical skills extend to building and optimizing data pipelines and front-end interfaces, as demonstrated by my work at Partner Valuation Advisors, where I implemented RAG-powered data processing and enhanced data storage performance using MERN and ChromaDB. Furthermore, I have a proven track record in IoT security, having developed a system with ESP32 that significantly reduced false alarms and built a robust cloud infrastructure on Azure for handling large volumes of sensor data, showcasing my ability to deliver impactful solutions across diverse technological domains..
+</p>
 
 <!--
 **Miguelrl17/Miguelrl17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
