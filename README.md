@@ -26,6 +26,8 @@ I specialize in leveraging data-driven insights through machine learning and dat
 My technical skills extend to building and optimizing data pipelines and front-end interfaces, as demonstrated by my work at Partner Valuation Advisors, where I implemented RAG-powered data processing and enhanced data storage performance using MERN and ChromaDB. Furthermore, I have a proven track record in IoT security, having developed a system with ESP32 that significantly reduced false alarms and built a robust cloud infrastructure on Azure for handling large volumes of sensor data, showcasing my ability to deliver impactful solutions across diverse technological domains.
 </p>
 
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelrl17&layout=compact">
+
 <!--
 **Miguelrl17/Miguelrl17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
