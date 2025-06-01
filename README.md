@@ -23,7 +23,7 @@
 I specialize in leveraging data-driven insights through machine learning and data mining. My experience spans the development of innovative solutions, including an Airbnb clone optimized with data analysis and web crawlers for in-depth research. Notably, I spearheaded the creation of an AI-powered SaaS application connecting private practice doctors nationwide to aggregate demand for medical devices, featuring an algorithm for demand analysis and a user-friendly mobile interface.
 </p>
 <p>
-My technical skills extend to building and optimizing data pipelines and front-end interfaces, as demonstrated by my work at Partner Valuation Advisors, where I implemented RAG-powered data processing and enhanced data storage performance using MERN and ChromaDB. Furthermore, I have a proven track record in IoT security, having developed a system with ESP32 that significantly reduced false alarms and built a robust cloud infrastructure on Azure for handling large volumes of sensor data, showcasing my ability to deliver impactful solutions across diverse technological domains..
+My technical skills extend to building and optimizing data pipelines and front-end interfaces, as demonstrated by my work at Partner Valuation Advisors, where I implemented RAG-powered data processing and enhanced data storage performance using MERN and ChromaDB. Furthermore, I have a proven track record in IoT security, having developed a system with ESP32 that significantly reduced false alarms and built a robust cloud infrastructure on Azure for handling large volumes of sensor data, showcasing my ability to deliver impactful solutions across diverse technological domains.
 </p>
 
 <!--
