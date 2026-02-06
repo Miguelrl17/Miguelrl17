@@ -1,4 +1,4 @@
-# Hola, My name is Miguel and I am a third year computer science student at UC Irvine 👋
+# Hello, My name is Miguel and I am a fourth year computer science student at UC Irvine
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
