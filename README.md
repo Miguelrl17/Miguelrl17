@@ -22,8 +22,7 @@
 I specialize in leveraging data-driven insights through machine learning and data mining, with experience leading the creation of an AI-powered SaaS platform that connects private practice doctors nationwide to aggregate medical device demand through advanced demand analysis and a mobile interface; additionally, I have built and optimized data pipelines and front-end systems using MERN, RAG, and ChromaDB at Partner Valuation Advisors, contributed to large-scale industrial and data-driven projects at Panasonic, and delivered impactful IoT security solutions with ESP32 and Azure-based cloud infrastructure for high-volume sensor data processing.
 </p>
 <p>
-[Portfolio / Resume](https://miguelrl17.github.io/website/)
-[https://miguelrl17.github.io/website/]https://miguelrl17.github.io/website/
+<a href="https://miguelrl17.github.io/website/">miguelrl17.github.io</a>
 </p>
 
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelrl17&layout=compact">
