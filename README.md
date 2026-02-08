@@ -19,11 +19,11 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Azure-0089D6?style=for-the-badge&logo=msazure&logoColor=white" alt="Azure">
 </p>
 <p>
-  
-I specialize in leveraging data-driven insights through machine learning and data mining. My experience spans the development of innovative solutions, including an Airbnb clone optimized with data analysis and web crawlers for in-depth research. Notably, I spearheaded the creation of an AI-powered SaaS application connecting private practice doctors nationwide to aggregate demand for medical devices, featuring an algorithm for demand analysis and a user-friendly mobile interface.
+I specialize in leveraging data-driven insights through machine learning and data mining, with experience leading the creation of an AI-powered SaaS platform that connects private practice doctors nationwide to aggregate medical device demand through advanced demand analysis and a mobile interface; additionally, I have built and optimized data pipelines and front-end systems using MERN, RAG, and ChromaDB at Partner Valuation Advisors, contributed to large-scale industrial and data-driven projects at Panasonic, and delivered impactful IoT security solutions with ESP32 and Azure-based cloud infrastructure for high-volume sensor data processing.
 </p>
 <p>
-My technical skills extend to building and optimizing data pipelines and front-end interfaces, as demonstrated by my work at Partner Valuation Advisors, where I implemented RAG-powered data processing and enhanced data storage performance using MERN and ChromaDB. Furthermore, I have a proven track record in IoT security, having developed a system with ESP32 that significantly reduced false alarms and built a robust cloud infrastructure on Azure for handling large volumes of sensor data, showcasing my ability to deliver impactful solutions across diverse technological domains.
+[Portfolio / Resume](https://miguelrl17.github.io/website/)
+[https://miguelrl17.github.io/website/]https://miguelrl17.github.io/website/
 </p>
 
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguelrl17&layout=compact">
